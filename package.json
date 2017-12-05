@@ -1,0 +1,24 @@
+{
+  "name": "tdd-js",
+  "version": "1.0.0",
+  "description": "Estudos sobre testes em JavaScript e algumas coisinhas a mais.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermealbuquerquegit/tdd-js.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "lib"
+  ],
+  "author": "Guilherme Albuquerque <guilhermealbuquerquerc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilhermealbuquerquegit/tdd-js/issues"
+  },
+  "homepage": "https://github.com/guilhermealbuquerquegit/tdd-js#readme"
+}
